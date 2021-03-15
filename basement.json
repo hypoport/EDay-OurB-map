@@ -54,7 +54,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/MyB.json"
+                 "value":".\/MyB.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -195,7 +195,7 @@
                         {
                          "name":"playAudioLoop",
                          "type":"string",
-                         "value":"right.mp3"
+                         "value":"..\/music\/techno.webm"
                         }]
                 }, 
                 {
@@ -204,7 +204,7 @@
                         {
                          "name":"playAudioLoop",
                          "type":"string",
-                         "value":"left.mp3"
+                         "value":"..\/music\/techno.webm"
                         }]
                 }],
          "tilewidth":32
