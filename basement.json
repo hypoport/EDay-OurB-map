@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/MyB.json"
+                 "value":".\/MyB.json#start_basement"
                 }],
          "type":"tilelayer",
          "visible":true,
