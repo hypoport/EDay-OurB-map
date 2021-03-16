@@ -363,6 +363,32 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":321,
+         "image":"tilesets\/used\/walls_windows_doors.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"walls_windows_doors",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":577,
+         "image":"tilesets\/used\/furniture_stuff.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"furniture_stuff",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
