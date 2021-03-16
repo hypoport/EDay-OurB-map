@@ -427,6 +427,19 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":4146,
+         "image":"tilesets\/used\/furniture_stuff.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"furniture_stuff",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
