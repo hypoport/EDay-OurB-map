@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":30,
  "infinite":false,
  "layers":[
@@ -212,7 +219,7 @@
         {
          "columns":16,
          "firstgid":707,
-         "image":"tilesets\/tiles.rc3.world_structures_rc3-mullana-functionary.png",
+         "image":"tilesets\/used\/tiles.rc3.world_structures_rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -245,7 +252,7 @@
         {
          "columns":7,
          "firstgid":963,
-         "image":"tilesets\/tiles.rc3.world_deco_minideko.png",
+         "image":"tilesets\/used\/tiles.rc3.world_deco_minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
@@ -258,7 +265,7 @@
         {
          "columns":8,
          "firstgid":1054,
-         "image":"floortileset.png",
+         "image":"tilesets\/used\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -281,7 +288,7 @@
         {
          "columns":16,
          "firstgid":1118,
-         "image":"tilesets\/tiles.rc3.world_deco_rc3-mullana-objects.png",
+         "image":"tilesets\/used\/tiles.rc3.world_deco_rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -294,7 +301,7 @@
         {
          "columns":16,
          "firstgid":1246,
-         "image":"tilesets\/tiles.rc3.world_deco_rc3-mullana-neon-signs.png",
+         "image":"tilesets\/used\/tiles.rc3.world_deco_rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
